@@ -8,7 +8,7 @@ I've been working as a developer for more than 5 years.
 
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [ashiftk011@gmail.com](mailto:ashiftk011@gmail.com)
-* 🧠  I'm learning Angular, Flutter
+* 🧠  I'm learning Angular, Flutter, Laravel
 
 <a href="https://www.github.com/ashiftk011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ashiftk011?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
