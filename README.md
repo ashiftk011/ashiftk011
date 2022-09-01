@@ -1,10 +1,10 @@
-Hi 👋 My name is Ashif TK
+Hi 👋 I'm Ashif
 =========================
 
 Software developer
 ------------------
 
-I've been working as a developer for more than 5 years.
+I've been working as a developer for more than 6 years.
 
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [ashiftk011@gmail.com](mailto:ashiftk011@gmail.com)
